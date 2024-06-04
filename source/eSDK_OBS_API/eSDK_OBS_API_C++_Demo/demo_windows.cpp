@@ -6008,7 +6008,7 @@ int main(int argc, char **argv)
     const char *command = argv[optind++];
     printf("command = %s\n", command);
 
-	set_obs_log_path("D:\\log", false);                   //此行代码用于示例设置日志文件路径功能，在实际使用中请注释该行
+	set_obs_log_path("D:\\log.txt", false);                   //此行代码用于示例设置日志文件路径功能，在实际使用中请注释该行
 	//setUserCustomLog(OBSLogPrintf); // set user custom log callback, you can define your own log callback which will be called asynchronously
 	set_file_path_code(UNICODE_CODE);
 	obs_initialize(OBS_INIT_ALL);

@@ -1,1 +1,30 @@
-﻿
+﻿  request.c
+d:\code-ecs\huaweicloud-sdk-c-obs\source\esdk_obs_api\esdk_obs_api_c++\src\request.c(161): warning C4996: 'GetVersionExW': 被声明为已否决
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\sysinfoapi.h(387): note: 参见“GetVersionExW”的声明
+d:\code-ecs\huaweicloud-sdk-c-obs\source\esdk_obs_api\esdk_obs_api_c++\src\request.c(315): warning C4018: “>=”: 有符号/无符号不匹配
+d:\code-ecs\huaweicloud-sdk-c-obs\source\esdk_obs_api\esdk_obs_api_c++\src\request.c(317): warning C4018: “>=”: 有符号/无符号不匹配
+d:\code-ecs\huaweicloud-sdk-c-obs\source\esdk_obs_api\esdk_obs_api_c++\src\request.c(329): warning C4018: “>=”: 有符号/无符号不匹配
+d:\code-ecs\huaweicloud-sdk-c-obs\source\esdk_obs_api\esdk_obs_api_c++\src\request.c(335): warning C4018: “>=”: 有符号/无符号不匹配
+d:\code-ecs\huaweicloud-sdk-c-obs\source\esdk_obs_api\esdk_obs_api_c++\src\request.c(349): warning C4018: “>=”: 有符号/无符号不匹配
+d:\code-ecs\huaweicloud-sdk-c-obs\source\esdk_obs_api\esdk_obs_api_c++\src\request.c(353): warning C4018: “>=”: 有符号/无符号不匹配
+d:\code-ecs\huaweicloud-sdk-c-obs\source\esdk_obs_api\esdk_obs_api_c++\src\request.c(341): warning C4100: “urlEncodedKey”: 未引用的形参
+d:\code-ecs\huaweicloud-sdk-c-obs\source\esdk_obs_api\esdk_obs_api_c++\src\request.c(370): warning C4018: “>=”: 有符号/无符号不匹配
+d:\code-ecs\huaweicloud-sdk-c-obs\source\esdk_obs_api\esdk_obs_api_c++\src\request.c(460): warning C4100: “values”: 未引用的形参
+d:\code-ecs\huaweicloud-sdk-c-obs\source\esdk_obs_api\esdk_obs_api_c++\src\request.c(1023): warning C4244: “初始化”: 从“double”转换到“uint64_t”，可能丢失数据
+d:\code-ecs\huaweicloud-sdk-c-obs\source\esdk_obs_api\esdk_obs_api_c++\src\request.c(1025): warning C4244: “参数”: 从“uint64_t”转换到“DWORD”，可能丢失数据
+d:\code-ecs\huaweicloud-sdk-c-obs\source\esdk_obs_api\esdk_obs_api_c++\src\request.c(1328): warning C4100: “data”: 未引用的形参
+d:\code-ecs\huaweicloud-sdk-c-obs\source\esdk_obs_api\esdk_obs_api_c++\src\request.c(1328): warning C4100: “nmemb”: 未引用的形参
+d:\code-ecs\huaweicloud-sdk-c-obs\source\esdk_obs_api\esdk_obs_api_c++\src\request.c(1328): warning C4100: “size”: 未引用的形参
+d:\code-ecs\huaweicloud-sdk-c-obs\source\esdk_obs_api\esdk_obs_api_c++\src\request.c(1328): warning C4100: “ptr”: 未引用的形参
+d:\code-ecs\huaweicloud-sdk-c-obs\source\esdk_obs_api\esdk_obs_api_c++\src\request.c(1338): warning C4244: “参数”: 从“uint64_t”转换到“size_t”，可能丢失数据
+d:\code-ecs\huaweicloud-sdk-c-obs\source\esdk_obs_api\esdk_obs_api_c++\src\request.c(1343): warning C4244: “参数”: 从“uint64_t”转换到“size_t”，可能丢失数据
+d:\code-ecs\huaweicloud-sdk-c-obs\source\esdk_obs_api\esdk_obs_api_c++\src\request.c(1382): warning C4244: “参数”: 从“uint64_t”转换到“int”，可能丢失数据
+    正在创建库 D:\code-ecs\huaweicloud-sdk-c-obs\source\eSDK_OBS_API\eSDK_OBS_API_C++\sln\vc100\..\..\build\vc100\Release\libeSDKOBS.lib 和对象 D:\code-ecs\huaweicloud-sdk-c-obs\source\eSDK_OBS_API\eSDK_OBS_API_C++\sln\vc100\..\..\build\vc100\Release\libeSDKOBS.exp
+  正在生成代码
+  1 of 705 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    62 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  obs.vcxproj -> D:\code-ecs\huaweicloud-sdk-c-obs\source\eSDK_OBS_API\eSDK_OBS_API_C++\sln\vc100\..\..\build\vc100\Release\libeSDKOBS.dll
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。

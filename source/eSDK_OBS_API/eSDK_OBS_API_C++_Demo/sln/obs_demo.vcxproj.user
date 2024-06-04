@@ -18,6 +18,6 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LocalDebuggerEnvironment>PATH=%PATH%;$(ProjectDir)..\..\eSDK_OBS_API_C++\build\vc100\$(Configuration);$(ProjectDir)..\..\eSDK_OBS_API_C++\bin\win32_x86_msvc\release;$(ProjectDir)..\..\..\..\platform\eSDK_LogAPI_V2.1.10\C\debug;$(LocalDebuggerEnvironment)</LocalDebuggerEnvironment>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
-    <LocalDebuggerCommandArguments>put_object_from_file test911 exampleObjectKey D:\\test.zip customdomain=obs.testcname.com protocol=https use_obs_auth</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>put_object_from_file gdn-dev-static liukk/test3 D:\\test.zip</LocalDebuggerCommandArguments>
   </PropertyGroup>
 </Project>
