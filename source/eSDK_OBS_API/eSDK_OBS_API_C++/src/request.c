@@ -1260,6 +1260,7 @@ void request_perform(const request_params *params)
     if (setoptResult != CURLE_OK) {
         COMMLOG(OBS_LOGWARN, "%s curl_easy_setopt failed! CURLcode = %d", __FUNCTION__, setoptResult);
     }
+    //curl_easy_setopt(request->curl, CURLOPT_PROXY, "127.0.0.1:8888");
 
     request_set_opt_for_progress(request);
 
